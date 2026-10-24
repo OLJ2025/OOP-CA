@@ -1,19 +1,19 @@
 # OOP-CA
 Object Orientated Programming group CA.
 
-Overview:
-The project topic chosen is 'Life On Land', Sustainable Development Goal (SDG) 15. I have decided to create three pages circulating around a quiz based on information relating to the topic chosen for the project. The user is given the option to complete it individually or as part of a group ( as well as the rules of the quiz), choose a team name or an individual alias, and answer the quiz questions. Each correct answer is worth one point and each wrong answer is worth zero points. The points are added up and displayed to the user, alongside their team name / alias, as a score out of seven accompanied by a short message (e.g. 6/7, well done!).
+**Overview:**\
+The project topic chosen is 'Life On Land', Sustainable Development Goal (SDG) 15. I have decided to create three pages circulating around a quiz based on information relating to the topic chosen for the project. The user is given the option to complete it individually or as part of a group ( as well as the rules of the quiz), choose a team name or an individual alias, and answer the quiz questions. Each correct answer is worth one point and each wrong answer is worth zero points. The points are added up and displayed to the user, alongside their team name / alias, as a score out of seven accompanied by a short message (e.g. 6/7, well done!). 
 (User Story: I, as the user, should be able to understand the rules of the quiz, choose whether I want to answer the quiz as part of a team or individually, choose an alias or team name, answer the quiz questions, and see the results so that I can see how well I (and my teammates) know the topics mentioned in the quiz and can improve in any areas where I (and my teammates) felt like our knowledge was insufficient or inadequate. )
 
-Aims:
-• Expanding people’s knowledge on the topics that fall under SDG 15.
-• Creating a family-friendly program which can be used by those of all ages.
-• Creating an interactive program that includes a quiz and other features.
+**Aims:**\
+• Expanding people’s knowledge on the topics that fall under SDG 15.\
+• Creating a family-friendly program which can be used by those of all ages.\
+• Creating an interactive program that includes a quiz and other features.\
 • The program is comprehensive and easy to use.
 
-Coding Languages Used:
+**Coding Languages Used:**\
 • Java
 
-Specifications:
-• While the program is suitable for those of all ages, it is primarily aimed towards younger people (e.g., children, teenagers, etc).
+**Specifications:**\
+• While the program is suitable for those of all ages, it is primarily aimed towards younger people (e.g., children, teenagers, etc).\
 • The program is a multi-page program that is created by three people.
