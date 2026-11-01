@@ -1,0 +1,5 @@
+The mock-up version of the quiz uploaded on 01/11/2026 asks the user whether they want to complete the quiz individuall or as a team.
+Depending on the user's answer, the quiz asks them for a team name (if they chose to complete the quiz as a team) or an alias (if they chose to complete the quiz individually).
+The user is then show the guidelines for the quiz.
+When answering the multiple choice quiz questions, the user is required to use capital letters (this will likely be changed at a future date so that both uppercase and lowercase letters are accepted).
+After completing the quiz, the user is shown their score alongside a message such as "Well done! You breezed through that like a pro. There is virtually nothing left to teach you!"
