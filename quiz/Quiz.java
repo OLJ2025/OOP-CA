@@ -23,14 +23,13 @@ public class Quiz {
         alias = null;
         teamName = null;
         int option, result;
-        
-        
+
         option = Integer.parseInt(JOptionPane.showInputDialog(null, """
                                                                     Do you wish to complete the quiz as a team or individually?\r
                                                                     1. Team\r
                                                                     2. Individually"""));
         if (option == 1){
-            teamName= JOptionPane.showInputDialog(null, "What is your team name");
+            teamName = JOptionPane.showInputDialog(null, "What is your team name");
         }else if(option == 2){
             alias = JOptionPane.showInputDialog(null, "What is your alias?");
         }
@@ -96,43 +95,43 @@ public class Quiz {
         int f = 0;
         int g = 0;
 
-        if ("A".equals(ans1)) {
+        if ("A".equals(ans1) || "a".equals(ans1)) {
             a++;
         } else {
             a = a;
         }
 
-        if ("B".equals(ans2)) {
+        if ("B".equals(ans2) ||  "b".equals(ans2)) {
             b++;
         } else {
             b = b;
         }
 
-        if ("C".equals(ans3)) {
+        if ("C".equals(ans3) || "c".equals(ans3)) {
             c++;
         } else {
             c = c;
         }
 
-        if ("A".equals(ans4)) {
+        if ("A".equals(ans4) || "a".equals(ans4)) {
             d++;
         } else {
             d = d;
         }
 
-        if ("D".equals(ans5)) {
+        if ("D".equals(ans5) || "d".equals(ans5)) {
             e++;
         } else {
             e = e;
         }
 
-        if ("C".equals(ans6)) {
+        if ("C".equals(ans6) || "c".equals(ans6)) {
             f++;
         } else {
             f = f;
         }
 
-        if ("B".equals(ans7)) {
+        if ("B".equals(ans7) || "b".equals(ans7)) {
             g++;
         } else {
             g = g;
